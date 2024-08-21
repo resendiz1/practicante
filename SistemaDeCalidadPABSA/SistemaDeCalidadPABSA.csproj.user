@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AgregarAnalisisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarAnalisisProductoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarEspecieForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarIngredienteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarProductoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarProveedorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarUsuarioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarIngredienteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarProductoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarProveedorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarUsuarioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EspecieEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EspeciesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IngredientesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MateriasPrimasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductosTerminadosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductosTerminadosListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProveedoresForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReporteMateriasPrimasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResultadosAnalisisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsuariosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
